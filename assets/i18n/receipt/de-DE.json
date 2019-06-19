@@ -1,0 +1,6 @@
+{
+  "receipt.getInvoice": "Weitere Informationen finden Sie in unseren&nbsp;<a href=\"https://mobility.here.com/support/faq\" target=\"_blank\" class=\"brand\">FAQ</a> oder kontaktieren Sie uns unter&nbsp;<a href=\"mailto:mobility.payments@here.com?subject=Supportanfrage für Fahrtennummer {{rideId}}\" class=\"brand\">mobility.payments@here.com</a>",
+  "receipt.rideId": "Fahrtennummer:",
+  "receipt.ridePayMethod": "Bezahlt mit",
+  "receipt.vat": "Mehrwertsteuer ({{taxPercentage}}%)"
+}

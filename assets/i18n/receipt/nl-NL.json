@@ -1,0 +1,6 @@
+{
+  "receipt.getInvoice": "Bekijk voor meer informatie onze&nbsp;<a href=\"https://mobility.here.com/support/faq\" target=\"_blank\" class=\"brand\">veelgestelde vragen</a> of neem contact met ons op bij&nbsp;<a href=\"mailto:mobility.payments@here.com?subject=Ondersteuningsverzoek voor Rit-ID {{rideId}}\" class=\"brand\">mobility.payments@here.com</a>",
+  "receipt.rideId": "Rit-ID:",
+  "receipt.ridePayMethod": "Betaald met",
+  "receipt.vat": "BTW ({{taxPercentage}}%)"
+}

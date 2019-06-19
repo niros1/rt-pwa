@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="28">
+  <defs>
+    <path id="a"
+          d="M19.9 18.89a11.27 11.27 0 0 0 2.84-7.5 11.36 11.36 0 0 0-22.72 0c0 2.87 1.07 5.5 2.84 7.5l6.38 6.4a3 3 0 0 0 4.24.01l6.42-6.41z"/>
+    <path id="b"
+          d="M22.74 11.4a11.36 11.36 0 0 0-22.72 0c0 2.86 1.07 5.49 2.84 7.49l6.38 6.4a3 3 0 0 0 4.25.01l6.43-6.41c1.75-2 2.82-4.63 2.82-7.5z"/>
+    <circle id="c" cx="5.5" cy="5.5" r="5.5"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(1 1)">
+      <use fill="#393C46" xlink:href="#a"/>
+      <use stroke="#292B32" stroke-width=".5" xlink:href="#b"/>
+    </g>
+    <g transform="translate(7 7)">
+      <mask id="d" fill="#fff">
+        <use xlink:href="#c"/>
+      </mask>
+      <use fill="#FFF" xlink:href="#c"/>
+      <path fill="#292B32"
+            d="M-.38 0h2.75v2.75H-.38V0zm0 5.5h2.75v2.75H-.38V5.5zm2.75-2.75h2.75V5.5H2.38V2.75zm.38 5.5H5.5V11H2.75V8.25zM5.5 0h2.75v2.75H5.5V0zm0 5.5h2.75v2.75H5.5V5.5zm2.75-2.75H11V5.5H8.25V2.75zm0 5.5H11V11H8.25V8.25z"
+            mask="url(#d)"/>
+      <circle cx="5.5" cy="5.5" r="5.75" stroke="#292B32" stroke-width=".5"/>
+    </g>
+  </g>
+</svg>

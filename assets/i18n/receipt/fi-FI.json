@@ -1,0 +1,6 @@
+{
+  "receipt.getInvoice": "Lisätietoja löydät&nbsp;<a href=\"https://mobility.here.com/support/faq\" target=\"_blank\" class=\"brand\">UKK:stamme</a> tai ottamalla yhteyttä osoitteeseen&nbsp;<a href=\"mailto:mobility.payments@here.com?subject=Tukipyyntö kyydille {{rideId}}\" class=\"brand\">mobility.payments@here.com</a>",
+  "receipt.rideId": "Kyydin tunniste:",
+  "receipt.ridePayMethod": "Maksutapa",
+  "receipt.vat": "ALV ({{taxPercentage}}%)"
+}

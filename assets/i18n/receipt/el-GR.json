@@ -1,0 +1,6 @@
+{
+  "receipt.getInvoice": "Για περισσότερες πληροφορίες, παρακαλούμε ελέγξτε το&nbsp;<a href=\"https://mobility.here.com/support/faq\" target=\"_blank\" class=\"brand\">FAQ</a> ή επικοινωνήστε μαζί μας στο&nbsp;<a href=\"mailto:mobility.payments@here.com?subject=Support request for Ride ID {{rideId}}\" class=\"brand\">mobility.payments@here.com</a>",
+  "receipt.rideId": "Αρ. Διαδρομής:",
+  "receipt.ridePayMethod": "Πληρωμή με",
+  "receipt.vat": "ΦΠΑ ({{taxPercentage}}%)"
+}
